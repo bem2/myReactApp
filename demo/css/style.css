@@ -1,0 +1,21 @@
+.well{
+    background: #CDFFFF;
+    margin:0 auto;
+}
+
+
+.nav.navbar-nav{
+   margin-top:0;
+    width:100%;
+    background:#000;
+}
+.nav.navbar-nav li{
+background: transparent;
+
+}
+.nav.navbar-nav li.active a,
+.nav.navbar-nav li a:hover{
+background: transparent;
+    color:coral;
+
+}
